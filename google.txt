@@ -1,0 +1,3 @@
+google id: student-01-5f6bd5359dc7@qwiklabs.net
+pwd : WNa4XQvydzwd
+Project id : qwiklabs-gcp-02-ee53396dc7c3
